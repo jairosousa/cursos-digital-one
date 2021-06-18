@@ -1,0 +1,15 @@
+
+n
+java:S1192"SDefine a constant instead of duplicating this literal "NÃ£o esta presente" 3 times.(Í×íù8¬Üá„¢/
+L	java:S106"9Replace this use of System.out or System.err by a logger.(’¼øÙ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(Í×íù
+L	java:S106"9Replace this use of System.out or System.err by a logger.(Í×íù
+R	java:S106"9Replace this use of System.out or System.err by a logger.(í€Å8îìÜ„¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹´şë8ïìÜ„¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹´şë8ğìÜ„¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ·óşÿÿÿÿ8¸Üá„¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÕŸ˜µıÿÿÿÿ8¸Üá„¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÕŸ˜µıÿÿÿÿ8¹Üá„¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ä¹û¾ûÿÿÿÿ8Ãªæ„¢/
+R	java:S106"9Replace this use of System.out or System.err by a logger.(á¸ø-8Äªæ„¢/
+R	java:S106"9Replace this use of System.out or System.err by a logger.(á¸ø-8Äªæ„¢/

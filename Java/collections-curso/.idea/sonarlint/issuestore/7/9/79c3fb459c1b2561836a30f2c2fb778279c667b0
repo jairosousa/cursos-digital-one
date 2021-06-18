@@ -1,0 +1,12 @@
+
+j
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¦™¹¿
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÚ†
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÚ†
+L	java:S106"9Replace this use of System.out or System.err by a logger.(øôÇÒ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¸°à
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ıØ±üÿÿÿÿ
+M
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(†Á—Öşÿÿÿÿ
+K	java:S106"9Replace this use of System.out or System.err by a logger.(çúÕ0
+L	java:S106"9Replace this use of System.out or System.err by a logger.(å¿Ô•

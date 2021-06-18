@@ -1,0 +1,37 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ú¸äøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÜêªûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“Ë­äüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ú¹Ãõùÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(¯Ûï ıÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¡»”ìûÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ı¯¯àüÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(¿•çüÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(­¿
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(œé“Ğ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(Õ­ïÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(áù’
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(àç¿
+7
+java:S38645"!Remove this use of "Stream.peek".(àç¿
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(àç¿
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(·®í
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(û¼÷ºúÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(¿šÁ øÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(Èø¡õúÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(³ë…¨
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(Ç»–„
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(Š¥Æ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(ç‰“Åûÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(É°Şıÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(õ™·‚ùÿÿÿÿ
+7
+java:S3864K"!Remove this use of "Stream.peek".(ßˆ±ö
+>
+java:S3864I"!Remove this use of "Stream.peek".(ßˆ±ö8ÉëìŠ¢/
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(ßˆ±ö
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(ßˆ±ö8ËëìŠ¢/
+R
+java:S1611L"7Remove the parentheses around the "estudante" parameter(ÄÀ½úÿÿÿÿÿ
+V	java:S125M"<This block of commented-out lines of code should be removed.(šÊ”Ïùÿÿÿÿ
